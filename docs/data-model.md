@@ -1,3 +1,5 @@
+🌐 [Leer en Español](data-model_ES.md)
+
 # Data Model
 
 This document describes the main data sources used in the Box Stock Management System.
