@@ -156,6 +156,12 @@ This gives near real-time visibility of stock levels without requiring manual re
 ### Final email with Excel attachment
 ![Email report](docs/screenshots/10-mail-reporte.png)
 
+## Additional Documentation
+
+- [Data Model](docs/data-model.md)
+- [Flow Description](docs/flow-description.md)
+- [Architecture](docs/architecture.md)
+
 ## Technical stack
 
 - **Power Apps**
@@ -165,27 +171,6 @@ This gives near real-time visibility of stock levels without requiring manual re
 - **Operational logic / data validation**
 - **UI-focused workflow design**
 
-## Data model
-
-### SharePoint List: Employee Master
-Example fields:
-- Name
-- Active
-- Email
-- Roles
-
-### SharePoint List: Stock Records
-Example fields:
-- ProductCode
-- Description
-- Sector
-- State
-- Pack
-- Quantity
-- Responsible
-- CountDate
-- BatchWeek
-- Observations
 
 ## Key improvements achieved
 
