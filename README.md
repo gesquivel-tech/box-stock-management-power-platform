@@ -1,3 +1,5 @@
+🌐 [Leer en Español](README_ES.md)
+
 # Box Stock Management System | Power Apps + SharePoint + Power Automate
 
 A stock counting and reporting solution designed for a packaging manufacturing environment.
