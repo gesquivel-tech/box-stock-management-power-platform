@@ -8,7 +8,7 @@ Este proyecto digitaliza un proceso manual basado en papel y lo transforma en un
 
 ---
 
-## 📌 Descripción general
+## Descripción general
 
 El proceso original de conteo de stock se realizaba de forma manual, lo que generaba problemas como:
 
@@ -26,7 +26,7 @@ Para resolver esto, se desarrolló una solución basada en Power Platform compue
 
 ---
 
-## 🏭 Contexto de negocio
+## Contexto de negocio
 
 La solución fue implementada en un entorno productivo de fabricación de cajas, donde es clave tener visibilidad del stock según:
 
@@ -39,7 +39,7 @@ La aplicación permite a los operarios o responsables registrar el stock de form
 
 ---
 
-## ⚙️ Funcionalidades principales
+## Funcionalidades principales
 
 ### 1. Validación de responsable
 
@@ -148,7 +148,7 @@ Esto permite visibilidad casi en tiempo real sin intervención manual.
 
 ---
 
-## 🔄 Flujo del proceso
+## Flujo del proceso
 
 1. Selección del responsable  
 2. Validación de empleado activo  
@@ -162,7 +162,7 @@ Esto permite visibilidad casi en tiempo real sin intervención manual.
 
 ---
 
-## 📸 Capturas
+## Capturas
 
 ### Selección de responsable
 ![Responsable](docs/screenshots/01-login-responsable.png)
@@ -196,7 +196,7 @@ Esto permite visibilidad casi en tiempo real sin intervención manual.
 
 ---
 
-## 🧱 Stack tecnológico
+## Stack tecnológico
 
 - Power Apps  
 - Power Automate  
@@ -207,29 +207,15 @@ Esto permite visibilidad casi en tiempo real sin intervención manual.
 
 ---
 
-## 📊 Modelo de datos
+## Documentación adicional
 
-### Lista: Maestro de Empleados
-- Nombre  
-- Activo  
-- Email  
-- Roles  
+Para más detalles sobre el sistema:
 
-### Lista: Stock de Cajas
-- CodigoProducto  
-- Descripcion  
-- Sector  
-- Estado  
-- Pack  
-- Cantidad  
-- Responsable  
-- Fecha  
-- Semana  
-- Observaciones  
+- [Modelo de datos](docs/data-model.md)
+- [Descripción del flujo](docs/flow-description.md)
+- [Arquitectura](docs/architecture.md)
 
----
-
-## 📈 Mejoras logradas
+## Mejoras logradas
 
 - Eliminación del registro manual en papel  
 - Mejora en la trazabilidad  
@@ -242,7 +228,7 @@ Esto permite visibilidad casi en tiempo real sin intervención manual.
 
 ---
 
-## 🧩 Problemas resueltos
+## Problemas resueltos
 
 - Control de usuario responsable  
 - Filtrado dinámico de empleados activos  
@@ -252,7 +238,7 @@ Esto permite visibilidad casi en tiempo real sin intervención manual.
 
 ---
 
-## 🚀 Próximas mejoras
+## Próximas mejoras
 
 - Permisos por sector  
 - Dashboard en Power BI  
@@ -262,7 +248,7 @@ Esto permite visibilidad casi en tiempo real sin intervención manual.
 
 ---
 
-## 📝 Notas
+## Notas
 
 Este repositorio documenta la lógica funcional y la arquitectura de la solución.  
 Los datos sensibles han sido anonimizados.
