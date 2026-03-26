@@ -4,6 +4,8 @@
 
 Solución de conteo y reporte de stock diseñada para un entorno de fabricación de packaging.
 
+![Architecture](docs/architecture.png)
+
 Este proyecto digitaliza un proceso manual basado en papel y lo transforma en un flujo estructurado con validaciones, trazabilidad, almacenamiento centralizado y generación automática de reportes.
 
 ---
