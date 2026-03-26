@@ -211,9 +211,9 @@ Esto permite visibilidad casi en tiempo real sin intervención manual.
 
 Para más detalles sobre el sistema:
 
-- [Modelo de datos](docs/data-model.md)
-- [Descripción del flujo](docs/flow-description.md)
-- [Arquitectura](docs/architecture.md)
+- [Modelo de datos](docs/data-modelES.md)
+- [Descripción del flujo](docs/flow-descriptionES.md)
+- [Arquitectura](docs/architectureES.md)
 
 ## Mejoras logradas
 
