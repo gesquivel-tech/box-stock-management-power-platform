@@ -213,7 +213,7 @@ Para más detalles sobre el sistema:
 
 - [Modelo de datos](docs/data-model_ES.md)
 - [Descripción del flujo](docs/flow-description_ES.md)
-- [Arquitectura](docs/architecture_ES.md)
+- [Arquitectura](docs/architecture.png)
 
 ## Mejoras logradas
 
