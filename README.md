@@ -4,7 +4,7 @@
 
 A stock counting and reporting solution designed for a packaging manufacturing environment.
 
-![Architecture](docs/architecture.png)
+<img src="docs/architecture.png" width="800">
 
 This project digitized a manual paper-based stock process and turned it into a structured workflow with validation, traceability, centralized storage, and automated reporting.
 
