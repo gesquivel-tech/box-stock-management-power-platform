@@ -2,9 +2,9 @@
 
 # Box Stock Management System | Power Apps + SharePoint + Power Automate
 
-![Architecture](docs/architecture.png)
-
 A stock counting and reporting solution designed for a packaging manufacturing environment.
+
+![Architecture](docs/architecture.png)
 
 This project digitized a manual paper-based stock process and turned it into a structured workflow with validation, traceability, centralized storage, and automated reporting.
 
