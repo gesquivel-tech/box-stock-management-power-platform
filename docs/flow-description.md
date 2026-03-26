@@ -1,3 +1,5 @@
+🌐 [Leer en Español](flow-description_ES.md)
+
 # Flow Description
 
 This document explains the functional workflow of the Box Stock Management System.
