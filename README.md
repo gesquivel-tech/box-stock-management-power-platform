@@ -160,7 +160,7 @@ This gives near real-time visibility of stock levels without requiring manual re
 
 - [Data Model](docs/data-model.md)
 - [Flow Description](docs/flow-description.md)
-- [Architecture](docs/architecture.md)
+- [Architecture](docs/architecture.png)
 
 ## Technical stack
 
